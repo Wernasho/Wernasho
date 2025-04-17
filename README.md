@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Wernasho
-- 👀 I’m interested in Music, videogames, and coding.
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Python (I'm a beginner on all of these)
+- 👋 Hi, I’m @Wernasho (but feel free to call me Wer, I won't bite)
+- 👀 I’m interested in c o d e.
+- 🌱 I’m currently learning C, Lua, & C#
 - 💞️ I’m looking to collaborate on Nothing, yet.
 - 📫 How to reach me: discord @wernasho
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: None :3
+- ⚡ Fun fact: console.log('2' - 2); is 0
