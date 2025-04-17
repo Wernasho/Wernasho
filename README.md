@@ -4,4 +4,11 @@
 - 💞️ I’m looking to collaborate on Nothing, yet.
 - 📫 How to reach me: discord @wernasho
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: console.log('2' - 2); is 0
+- ⚡ Fun fact: `console.log('2' - 2);` shows 0
+- 📚 Stack:
+  - HTML
+  - CSS
+  - JS
+  - Python
+- 🌐 Languages: English / Spanish (<- 1st language is spanish).
+- 🌎 Nationality: Argentinian 🇦🇷
